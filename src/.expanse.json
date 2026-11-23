@@ -1,0 +1,347 @@
+{
+  "entrySpaceId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+  "objects": {
+    "1f3a2a17-4a28-4797-9916-2358ab6711d6": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "1f3a2a17-4a28-4797-9916-2358ab6711d6",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/MariaCamilaVacca_escena_3_callejon.mp4"
+        }
+      },
+      "name": "MariaCamilaVacca_escena_3_callejon",
+      "order": 0.23426946321330988,
+      "parentId": "8c7d1d77-b2c7-4936-b9df-1ba048e2cdfb",
+      "position": [
+        0,
+        -3.469446951953614e-18,
+        0.02600000000000001
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "22a83173-6201-43b8-ba06-074dfd8d39e2": {
+      "components": {},
+      "geometry": null,
+      "id": "22a83173-6201-43b8-ba06-074dfd8d39e2",
+      "light": {
+        "type": "directional",
+        "intensity": 1
+      },
+      "material": null,
+      "name": "Luz direccional",
+      "order": 2.5,
+      "parentId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "position": [
+        20,
+        50,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "4ece0d13-50dd-4398-8242-ab9f41386b92": {
+      "components": {},
+      "geometry": null,
+      "id": "4ece0d13-50dd-4398-8242-ab9f41386b92",
+      "imageTarget": {
+        "name": "Recurso_2"
+      },
+      "material": null,
+      "name": "Marcador · Recurso_2",
+      "order": 5.5,
+      "parentId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "8c7d1d77-b2c7-4936-b9df-1ba048e2cdfb": {
+      "components": {},
+      "geometry": null,
+      "id": "8c7d1d77-b2c7-4936-b9df-1ba048e2cdfb",
+      "imageTarget": {
+        "name": "Recurso_3"
+      },
+      "material": null,
+      "name": "Marcador · Recurso_3",
+      "order": 6.5,
+      "parentId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "90025dd1-9ff4-4bce-9848-61e72db137d7": {
+      "components": {},
+      "geometry": null,
+      "id": "90025dd1-9ff4-4bce-9848-61e72db137d7",
+      "light": {
+        "type": "ambient"
+      },
+      "material": null,
+      "name": "Luz ambiental",
+      "order": 1.5,
+      "parentId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "position": [
+        10,
+        5,
+        5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "96e9bb22-0ee0-4008-826e-ad5ee7280d39": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "96e9bb22-0ee0-4008-826e-ad5ee7280d39",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/MariaCamilaVacca_escena_1_habitacion.mp4"
+        }
+      },
+      "name": "MariaCamilaVacca_escena_1_habitacion",
+      "order": 0.600856921798311,
+      "parentId": "a6b5208d-6908-457c-ba6c-5d700c43d8fa",
+      "position": [
+        0,
+        -1.734723475976807e-18,
+        0.010000000000000002
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "97630e4a-e65e-4ee2-9c61-64fa3d202a1b": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "97630e4a-e65e-4ee2-9c61-64fa3d202a1b",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/MariaCamilaVacca_escena_2_ventana.mp4"
+        }
+      },
+      "name": "MariaCamilaVacca_escena_2_ventana",
+      "order": 0.3996789797155045,
+      "parentId": "4ece0d13-50dd-4398-8242-ab9f41386b92",
+      "position": [
+        0,
+        3.469446951953614e-18,
+        0.025000000000000005
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "a6b5208d-6908-457c-ba6c-5d700c43d8fa": {
+      "components": {},
+      "geometry": null,
+      "id": "a6b5208d-6908-457c-ba6c-5d700c43d8fa",
+      "imageTarget": {
+        "name": "Recurso_1"
+      },
+      "material": null,
+      "name": "Marcador · Recurso_1",
+      "order": 4.5,
+      "parentId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "fbec439e-e7c2-4217-89b5-5821d3e8d8fe": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "fbec439e-e7c2-4217-89b5-5821d3e8d8fe",
+      "material": null,
+      "name": "Cámara",
+      "order": 0.5,
+      "parentId": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "spaces": {
+    "b04b64ff-c52a-45dd-b357-f3389c2a3ebf": {
+      "activeCamera": "fbec439e-e7c2-4217-89b5-5821d3e8d8fe",
+      "id": "b04b64ff-c52a-45dd-b357-f3389c2a3ebf",
+      "name": "Espacio principal"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Recurso_1_luminance.png",
+  "resources": {
+    "originalImage": "Recurso_1_original.png",
+    "croppedImage": "Recurso_1_cropped.png",
+    "thumbnailImage": "Recurso_1_thumbnail.png",
+    "luminanceImage": "Recurso_1_luminance.png"
+  },
+  "name": "Recurso_1",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 78,
+    "width": 470,
+    "height": 626,
+    "isRotated": true,
+    "originalWidth": 625,
+    "originalHeight": 626
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795411583452,
+  "updated": 1795411583452
+}
