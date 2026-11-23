@@ -7,7 +7,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.664,
+            "cubo": 0.75,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -34,19 +34,19 @@
       "parentId": "8c7d1d77-b2c7-4936-b9df-1ba048e2cdfb",
       "position": [
         0,
-        -3.469446951953614e-18,
-        0.02600000000000001
+        0,
+        0.026
       ],
       "rotation": [
         0,
         0,
         0,
-        1.0000000000000002
+        1
       ],
       "scale": [
-        1,
-        1,
-        1
+        1.697,
+        1.697,
+        1.697
       ],
       "videoControls": {
         "loop": true,
@@ -172,7 +172,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.664,
+            "cubo": 0.75,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -199,8 +199,8 @@
       "parentId": "a6b5208d-6908-457c-ba6c-5d700c43d8fa",
       "position": [
         0,
-        -1.734723475976807e-18,
-        0.010000000000000002
+        0,
+        0.01
       ],
       "rotation": [
         1.1102230246251565e-16,
@@ -209,9 +209,9 @@
         1
       ],
       "scale": [
-        1,
-        1,
-        1
+        1.707,
+        1.707,
+        1.707
       ],
       "videoControls": {
         "loop": true,
@@ -224,7 +224,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.664,
+            "cubo": 0.75,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -251,19 +251,19 @@
       "parentId": "4ece0d13-50dd-4398-8242-ab9f41386b92",
       "position": [
         0,
-        3.469446951953614e-18,
-        0.025000000000000005
+        0,
+        0.025
       ],
       "rotation": [
         0,
         0,
         0,
-        1.0000000000000002
+        1
       ],
       "scale": [
-        1,
-        1,
-        1
+        1.689,
+        1.689,
+        1.689
       ],
       "videoControls": {
         "loop": true,
